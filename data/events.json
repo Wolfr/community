@@ -21,14 +21,14 @@
       "details": ""
     },
     {
-      "name": "SvelteCampe Belgium",
+      "name": "Svelte Camp Belgium",
       "url": "https://svelte.camp/",
-      "time_start": "2020-xx-xx-xxxx",
-      "time_end": "2020-xx-xx-xxxx",
+      "time_start": "2019-xx-xx-xxxx",
+      "time_end": "2019-xx-xx-xxxx",
       "location": {
         "address": "To be confirmed",
-        "city": "Ghent or Antwerp",
-        "state_region": "Ghent or Antwerp",
+        "city": "Ghent",
+        "state_region": "Ghent",
         "country": "Belgium"
       },
       "organisers": [
